@@ -1,1 +1,5 @@
 # production2vec
+
+COVID-19 health crisis highlights the fragility of European industrial strategies and leads us to develop more agile, distributed, and resilient production models at a territorial level. There are two major challenges in this regard: one is to find solutions to secure supplies and/or industrial value chains, and the other is to identify companies that have the potential to transform their production quickly to cope with an emergency situation. We extended the Word2Vec vector space with products and economic activities allowing us to calculate proximities. We present a methodology based on semantic proximity and productive complexities to assess the ability of an A-company to produce a product B and to anticipate customer/supplier-type collaboration according to industrial quality standards. We consider recommendation topics by intertwining machine learning techniques with semantic approaches, referring to area ontologies incorporating territorial dimensionality.
+
+https://dl.acm.org/doi/10.1145/3469213.3469218
